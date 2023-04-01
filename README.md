@@ -1,4 +1,4 @@
-# **EL SERVIDOR DE KISH**
+# **LOBBY SALTARIN🐇**
 `Aqui encontraras las reglas mas a detalle dentro del servidor, agradecemos que le heches un vistazo!`
 
 ## DESCRIPCION BREVE
@@ -50,5 +50,5 @@ Queda prohibido el uso de programas externos que modifiquen o alteren el comport
 >Aplican las mismas reglas dentro de los juegos, respeto, vocabulario y comportamiento.
 ## DISCLAIMER
 
-REGLAS SUJETAS A CAMBIOS SIN PREVIO AVISO.
+REGLAS SUJETAS A CAMBIOS SIN PREVIO AVISO.\
 FECHA DE ULTIMA ACTUALIZACION: 31/MARZO/2023
